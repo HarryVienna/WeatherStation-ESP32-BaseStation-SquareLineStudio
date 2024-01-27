@@ -281,7 +281,7 @@
                       {
                         "nid": -1979667528,
                         "strtype": "LABEL/Text",
-                        "strval": "Netzwerk",
+                        "strval": "Netzwerk:",
                         "InheritedType": 10
                       },
                       {
@@ -1954,7 +1954,7 @@
                       {
                         "nid": -2100074505,
                         "strtype": "LABEL/Text",
-                        "strval": "Passwort",
+                        "strval": "Passwort:",
                         "InheritedType": 10
                       },
                       {
@@ -3866,7 +3866,7 @@
                       {
                         "nid": 230458451,
                         "strtype": "LABEL/Text",
-                        "strval": "AppId",
+                        "strval": "AppId:",
                         "InheritedType": 10
                       },
                       {
