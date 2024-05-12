@@ -1,10 +1,10 @@
 {
-  "codename": "FreeSans24",
+  "codename": "FreeSans30",
   "ttf_path": "/assets/FreeSans.ttf",
-  "bin_path": "/assets\\ui_font_FreeSans24.bin",
-  "c_path": "/assets\\ui_font_FreeSans24.c",
-  "cfg_path": "/assets\\ui_font_FreeSans24.fcfg",
-  "size": 24,
+  "bin_path": "/assets\\ui_font_FreeSans30.bin",
+  "c_path": "/assets\\ui_font_FreeSans30.c",
+  "cfg_path": "/assets\\ui_font_FreeSans30.fcfg",
+  "size": 30,
   "bpp": 8,
   "letters": 3,
   "ranges": [

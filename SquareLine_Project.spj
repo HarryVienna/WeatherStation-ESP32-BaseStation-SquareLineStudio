@@ -64,7 +64,7 @@
                         "flags": 49,
                         "strtype": "OBJECT/Size",
                         "intarray": [
-                          100,
+                          120,
                           1
                         ],
                         "InheritedType": 7
@@ -295,7 +295,7 @@
                               {
                                 "nid": 1879751872,
                                 "strtype": "_style/Text_Font",
-                                "strval": "FreeSans20",
+                                "strval": "FreeSans24",
                                 "InheritedType": 3
                               }
                             ],
@@ -609,7 +609,7 @@
                               {
                                 "nid": -771343994,
                                 "strtype": "_style/Text_Font",
-                                "strval": "montserrat_18",
+                                "strval": "montserrat_26",
                                 "InheritedType": 3
                               },
                               {
@@ -679,7 +679,7 @@
                               {
                                 "nid": 871248867,
                                 "strtype": "_style/Text_Font",
-                                "strval": "montserrat_18",
+                                "strval": "FreeSans20",
                                 "InheritedType": 3
                               },
                               {
@@ -1011,7 +1011,7 @@
                                   {
                                     "nid": 337152313,
                                     "strtype": "_style/Text_Font",
-                                    "strval": "FreeSans20",
+                                    "strval": "FreeSans24",
                                     "InheritedType": 3
                                   },
                                   {
@@ -1091,8 +1091,8 @@
                         "flags": 17,
                         "strtype": "OBJECT/Size",
                         "intarray": [
-                          130,
-                          36
+                          180,
+                          50
                         ],
                         "InheritedType": 7
                       },
@@ -1428,7 +1428,7 @@
                     "strtype": "OBJECT/Position",
                     "intarray": [
                       0,
-                      0
+                      -1
                     ],
                     "InheritedType": 7
                   },
@@ -1438,7 +1438,7 @@
                     "strtype": "OBJECT/Size",
                     "intarray": [
                       100,
-                      30
+                      33
                     ],
                     "InheritedType": 7
                   },
@@ -1737,7 +1737,7 @@
                         "flags": 49,
                         "strtype": "OBJECT/Size",
                         "intarray": [
-                          100,
+                          120,
                           1
                         ],
                         "InheritedType": 7
@@ -1968,7 +1968,7 @@
                               {
                                 "nid": -1095164729,
                                 "strtype": "_style/Text_Font",
-                                "strval": "FreeSans20",
+                                "strval": "FreeSans24",
                                 "InheritedType": 3
                               }
                             ],
@@ -2040,7 +2040,7 @@
                         "strtype": "OBJECT/Size",
                         "intarray": [
                           1,
-                          40
+                          42
                         ],
                         "InheritedType": 7
                       },
@@ -2264,7 +2264,7 @@
                               {
                                 "nid": 1755956480,
                                 "strtype": "_style/Text_Font",
-                                "strval": "FreeSans20",
+                                "strval": "FreeSans26",
                                 "InheritedType": 3
                               },
                               {
@@ -2923,7 +2923,7 @@
                                   {
                                     "nid": -1381905198,
                                     "strtype": "_style/Text_Font",
-                                    "strval": "FreeSans20",
+                                    "strval": "FreeSans24",
                                     "InheritedType": 3
                                   },
                                   {
@@ -3003,8 +3003,8 @@
                         "flags": 17,
                         "strtype": "OBJECT/Size",
                         "intarray": [
-                          130,
-                          36
+                          180,
+                          50
                         ],
                         "InheritedType": 7
                       },
@@ -3350,7 +3350,7 @@
                     "strtype": "OBJECT/Size",
                     "intarray": [
                       100,
-                      30
+                      33
                     ],
                     "InheritedType": 7
                   },
@@ -3649,7 +3649,7 @@
                         "flags": 49,
                         "strtype": "OBJECT/Size",
                         "intarray": [
-                          100,
+                          120,
                           1
                         ],
                         "InheritedType": 7
@@ -3880,7 +3880,7 @@
                               {
                                 "nid": 2094552877,
                                 "strtype": "_style/Text_Font",
-                                "strval": "FreeSans20",
+                                "strval": "FreeSans24",
                                 "InheritedType": 3
                               }
                             ],
@@ -4176,7 +4176,7 @@
                               {
                                 "nid": 312296255,
                                 "strtype": "_style/Text_Font",
-                                "strval": "FreeSans20",
+                                "strval": "FreeSans26",
                                 "InheritedType": 3
                               },
                               {
@@ -4899,7 +4899,7 @@
                         "flags": 49,
                         "strtype": "OBJECT/Size",
                         "intarray": [
-                          100,
+                          120,
                           1
                         ],
                         "InheritedType": 7
@@ -5130,7 +5130,7 @@
                               {
                                 "nid": -2072690630,
                                 "strtype": "_style/Text_Font",
-                                "strval": "FreeSans20",
+                                "strval": "FreeSans24",
                                 "InheritedType": 3
                               }
                             ],
@@ -5201,7 +5201,7 @@
                         "flags": 49,
                         "strtype": "OBJECT/Size",
                         "intarray": [
-                          160,
+                          200,
                           40
                         ],
                         "InheritedType": 7
@@ -5426,7 +5426,7 @@
                               {
                                 "nid": 2069410569,
                                 "strtype": "_style/Text_Font",
-                                "strval": "FreeSans20",
+                                "strval": "FreeSans26",
                                 "InheritedType": 3
                               },
                               {
@@ -6089,7 +6089,7 @@
                               {
                                 "nid": -717991093,
                                 "strtype": "_style/Text_Font",
-                                "strval": "FreeSans20",
+                                "strval": "FreeSans24",
                                 "InheritedType": 3
                               },
                               {
@@ -6171,7 +6171,7 @@
                         "flags": 49,
                         "strtype": "OBJECT/Size",
                         "intarray": [
-                          160,
+                          200,
                           40
                         ],
                         "InheritedType": 7
@@ -6396,7 +6396,7 @@
                               {
                                 "nid": -676183615,
                                 "strtype": "_style/Text_Font",
-                                "strval": "FreeSans20",
+                                "strval": "FreeSans26",
                                 "InheritedType": 3
                               },
                               {
@@ -7059,7 +7059,7 @@
                               {
                                 "nid": -744190269,
                                 "strtype": "_style/Text_Font",
-                                "strval": "FreeSans20",
+                                "strval": "FreeSans24",
                                 "InheritedType": 3
                               },
                               {
@@ -7366,7 +7366,7 @@
                               {
                                 "nid": -1074839894,
                                 "strtype": "_style/Text_Font",
-                                "strval": "FreeSans20",
+                                "strval": "FreeSans26",
                                 "InheritedType": 3
                               },
                               {
@@ -8090,7 +8090,7 @@
                         "flags": 49,
                         "strtype": "OBJECT/Size",
                         "intarray": [
-                          100,
+                          120,
                           1
                         ],
                         "InheritedType": 7
@@ -8321,7 +8321,7 @@
                               {
                                 "nid": -1949319937,
                                 "strtype": "_style/Text_Font",
-                                "strval": "FreeSans20",
+                                "strval": "FreeSans24",
                                 "InheritedType": 3
                               }
                             ],
@@ -8391,7 +8391,7 @@
                         "flags": 49,
                         "strtype": "OBJECT/Size",
                         "intarray": [
-                          135,
+                          200,
                           1
                         ],
                         "InheritedType": 7
@@ -8634,7 +8634,7 @@
                               {
                                 "nid": 1257471611,
                                 "strtype": "_style/Text_Font",
-                                "strval": "montserrat_18",
+                                "strval": "montserrat_26",
                                 "InheritedType": 3
                               },
                               {
@@ -9097,7 +9097,7 @@
                               {
                                 "nid": -871246076,
                                 "strtype": "_style/Text_Font",
-                                "strval": "montserrat_18",
+                                "strval": "montserrat_26",
                                 "InheritedType": 3
                               },
                               {
@@ -9550,7 +9550,7 @@
                         "flags": 49,
                         "strtype": "OBJECT/Size",
                         "intarray": [
-                          100,
+                          120,
                           1
                         ],
                         "InheritedType": 7
@@ -9781,7 +9781,7 @@
                               {
                                 "nid": 420132568,
                                 "strtype": "_style/Text_Font",
-                                "strval": "FreeSans20",
+                                "strval": "FreeSans24",
                                 "InheritedType": 3
                               }
                             ],
@@ -9852,7 +9852,7 @@
                         "flags": 49,
                         "strtype": "OBJECT/Size",
                         "intarray": [
-                          135,
+                          200,
                           40
                         ],
                         "InheritedType": 7
@@ -10077,7 +10077,7 @@
                               {
                                 "nid": -1149030471,
                                 "strtype": "_style/Text_Font",
-                                "strval": "FreeSans20",
+                                "strval": "FreeSans26",
                                 "InheritedType": 3
                               },
                               {
@@ -10815,7 +10815,7 @@
                         "flags": 49,
                         "strtype": "OBJECT/Size",
                         "intarray": [
-                          100,
+                          120,
                           1
                         ],
                         "InheritedType": 7
@@ -11046,7 +11046,7 @@
                               {
                                 "nid": 1251021401,
                                 "strtype": "_style/Text_Font",
-                                "strval": "FreeSans20",
+                                "strval": "FreeSans24",
                                 "InheritedType": 3
                               }
                             ],
@@ -11117,7 +11117,7 @@
                         "flags": 49,
                         "strtype": "OBJECT/Size",
                         "intarray": [
-                          135,
+                          190,
                           40
                         ],
                         "InheritedType": 7
@@ -11342,7 +11342,7 @@
                               {
                                 "nid": -658702011,
                                 "strtype": "_style/Text_Font",
-                                "strval": "FreeSans20",
+                                "strval": "FreeSans26",
                                 "InheritedType": 3
                               },
                               {
@@ -12004,7 +12004,7 @@
                               {
                                 "nid": -558259633,
                                 "strtype": "_style/Text_Font",
-                                "strval": "FreeSans20",
+                                "strval": "FreeSans24",
                                 "InheritedType": 3
                               },
                               {
@@ -12086,7 +12086,7 @@
                         "flags": 49,
                         "strtype": "OBJECT/Size",
                         "intarray": [
-                          135,
+                          190,
                           40
                         ],
                         "InheritedType": 7
@@ -12311,7 +12311,7 @@
                               {
                                 "nid": -446139697,
                                 "strtype": "_style/Text_Font",
-                                "strval": "FreeSans20",
+                                "strval": "FreeSans26",
                                 "InheritedType": 3
                               },
                               {
@@ -12973,7 +12973,7 @@
                               {
                                 "nid": 1580395651,
                                 "strtype": "_style/Text_Font",
-                                "strval": "FreeSans20",
+                                "strval": "FreeSans24",
                                 "InheritedType": 3
                               },
                               {
@@ -13055,7 +13055,7 @@
                         "flags": 49,
                         "strtype": "OBJECT/Size",
                         "intarray": [
-                          135,
+                          190,
                           40
                         ],
                         "InheritedType": 7
@@ -13280,7 +13280,7 @@
                               {
                                 "nid": 1077519057,
                                 "strtype": "_style/Text_Font",
-                                "strval": "FreeSans20",
+                                "strval": "FreeSans26",
                                 "InheritedType": 3
                               },
                               {
@@ -14238,7 +14238,7 @@
                                   {
                                     "nid": 535967636,
                                     "strtype": "_style/Text_Font",
-                                    "strval": "FreeSans20",
+                                    "strval": "FreeSans24",
                                     "InheritedType": 3
                                   },
                                   {
@@ -14317,8 +14317,8 @@
                         "flags": 17,
                         "strtype": "OBJECT/Size",
                         "intarray": [
-                          130,
-                          36
+                          180,
+                          50
                         ],
                         "InheritedType": 7
                       },
@@ -15006,8 +15006,8 @@
                 "flags": 17,
                 "strtype": "OBJECT/Size",
                 "intarray": [
-                  790,
-                  470
+                  1014,
+                  590
                 ],
                 "InheritedType": 7
               },
@@ -16172,6 +16172,8 @@
           }
         ],
         "isPage": true,
+        "editor_posx": 1280,
+        "editor_posy": -1280,
         "locked": false,
         "properties": [
           {
@@ -16205,6 +16207,7 @@
           },
           {
             "nid": 1887480164,
+            "flags": 1048576,
             "strtype": "OBJECT/Flags",
             "InheritedType": 1
           },
@@ -16521,11 +16524,11 @@
                   },
                   {
                     "nid": 641355553,
-                    "flags": 50,
+                    "flags": 34,
                     "strtype": "OBJECT/Size",
                     "intarray": [
                       100,
-                      1
+                      14
                     ],
                     "InheritedType": 7
                   },
@@ -16761,7 +16764,7 @@
                           {
                             "nid": -2035190101,
                             "strtype": "_style/Text_Font",
-                            "strval": "FreeSans18",
+                            "strval": "FreeSans20",
                             "InheritedType": 3
                           },
                           {
@@ -16870,8 +16873,8 @@
                         "flags": 17,
                         "strtype": "OBJECT/Size",
                         "intarray": [
-                          72,
-                          72
+                          90,
+                          90
                         ],
                         "InheritedType": 7
                       },
@@ -16883,6 +16886,7 @@
                       },
                       {
                         "nid": 1138415757,
+                        "flags": 1048576,
                         "strtype": "OBJECT/Flags",
                         "InheritedType": 1
                       },
@@ -17080,7 +17084,7 @@
                       {
                         "nid": -2042597461,
                         "strtype": "IMAGE/Asset",
-                        "strval": "assets\\04d.png",
+                        "strval": "assets/04d.png",
                         "InheritedType": 5
                       },
                       {
@@ -17172,7 +17176,7 @@
                                 "strtype": "OBJECT/Size",
                                 "intarray": [
                                   1,
-                                  1
+                                  55
                                 ],
                                 "InheritedType": 7
                               },
@@ -17184,6 +17188,7 @@
                               },
                               {
                                 "nid": 648695480,
+                                "flags": 1048576,
                                 "strtype": "OBJECT/Flags",
                                 "InheritedType": 1
                               },
@@ -17387,7 +17392,7 @@
                               {
                                 "nid": -877375642,
                                 "strtype": "LABEL/Text",
-                                "strval": "-0.4",
+                                "strval": "-30.4",
                                 "InheritedType": 10
                               },
                               {
@@ -17412,7 +17417,7 @@
                                       {
                                         "nid": -2105342697,
                                         "strtype": "_style/Text_Font",
-                                        "strval": "FreeSansBold48",
+                                        "strval": "FreeSansBold62",
                                         "InheritedType": 3
                                       },
                                       {
@@ -17503,7 +17508,7 @@
                                 "flags": 49,
                                 "strtype": "OBJECT/Size",
                                 "intarray": [
-                                  30,
+                                  32,
                                   1
                                 ],
                                 "InheritedType": 7
@@ -17751,7 +17756,7 @@
                                       {
                                         "nid": -2081934584,
                                         "strtype": "_style/Text_Font",
-                                        "strval": "FreeSans18",
+                                        "strval": "FreeSans24",
                                         "InheritedType": 3
                                       },
                                       {
@@ -17760,7 +17765,7 @@
                                         "intarray": [
                                           0,
                                           0,
-                                          0,
+                                          8,
                                           0
                                         ],
                                         "InheritedType": 7
@@ -17790,7 +17795,8 @@
                                 "InheritedType": 2
                               }
                             ],
-                            "saved_objtypeKey": "LABEL"
+                            "saved_objtypeKey": "LABEL",
+                            "tree_closed": true
                           }
                         ],
                         "locked": false,
@@ -17836,11 +17842,11 @@
                           },
                           {
                             "nid": -690339060,
-                            "flags": 50,
+                            "flags": 34,
                             "strtype": "OBJECT/Size",
                             "intarray": [
                               100,
-                              40
+                              60
                             ],
                             "InheritedType": 7
                           },
@@ -18149,11 +18155,11 @@
                                   },
                                   {
                                     "nid": 1500726202,
-                                    "flags": 51,
+                                    "flags": 49,
                                     "strtype": "OBJECT/Size",
                                     "intarray": [
-                                      1,
-                                      1
+                                      24,
+                                      24
                                     ],
                                     "InheritedType": 7
                                   },
@@ -18165,6 +18171,7 @@
                                   },
                                   {
                                     "nid": -880989551,
+                                    "flags": 1048576,
                                     "strtype": "OBJECT/Flags",
                                     "InheritedType": 1
                                   },
@@ -18362,7 +18369,7 @@
                                   {
                                     "nid": -2094335750,
                                     "strtype": "IMAGE/Asset",
-                                    "strval": "assets\\cloud.png",
+                                    "strval": "assets/cloud.png",
                                     "InheritedType": 5
                                   },
                                   {
@@ -18382,7 +18389,7 @@
                                   {
                                     "nid": 726647139,
                                     "strtype": "IMAGE/Scale",
-                                    "integer": 256,
+                                    "integer": 320,
                                     "InheritedType": 6
                                   },
                                   {
@@ -18676,7 +18683,7 @@
                                           {
                                             "nid": -247018604,
                                             "strtype": "_style/Text_Font",
-                                            "strval": "FreeSans24",
+                                            "strval": "FreeSans36",
                                             "InheritedType": 3
                                           },
                                           {
@@ -19007,7 +19014,7 @@
                                             "intarray": [
                                               2,
                                               0,
-                                              1,
+                                              8,
                                               0
                                             ],
                                             "InheritedType": 7
@@ -19058,8 +19065,8 @@
                                 "Wrap": false,
                                 "Reversed": false,
                                 "MainAlignment": 0,
-                                "CrossAlignment": 0,
-                                "TrackAlignment": 0,
+                                "CrossAlignment": 1,
+                                "TrackAlignment": 1,
                                 "LayoutType": 1,
                                 "nid": -34152626,
                                 "strtype": "OBJECT/Layout_type",
@@ -19086,7 +19093,7 @@
                                 "flags": 50,
                                 "strtype": "OBJECT/Size",
                                 "intarray": [
-                                  57,
+                                  60,
                                   50
                                 ],
                                 "InheritedType": 7
@@ -19312,7 +19319,7 @@
                                         "strtype": "_style/Padding",
                                         "intarray": [
                                           4,
-                                          0,
+                                          4,
                                           0,
                                           0
                                         ],
@@ -19397,11 +19404,11 @@
                                   },
                                   {
                                     "nid": -357501963,
-                                    "flags": 51,
+                                    "flags": 17,
                                     "strtype": "OBJECT/Size",
                                     "intarray": [
-                                      1,
-                                      1
+                                      24,
+                                      24
                                     ],
                                     "InheritedType": 7
                                   },
@@ -19611,7 +19618,7 @@
                                   {
                                     "nid": 1812459312,
                                     "strtype": "IMAGE/Asset",
-                                    "strval": "assets\\uv.png",
+                                    "strval": "assets/uv.png",
                                     "InheritedType": 5
                                   },
                                   {
@@ -19631,7 +19638,7 @@
                                   {
                                     "nid": 947283641,
                                     "strtype": "IMAGE/Scale",
-                                    "integer": 256,
+                                    "integer": 320,
                                     "InheritedType": 6
                                   },
                                   {
@@ -19925,14 +19932,14 @@
                                           {
                                             "nid": 1826601397,
                                             "strtype": "_style/Text_Font",
-                                            "strval": "FreeSans24",
+                                            "strval": "FreeSans36",
                                             "InheritedType": 3
                                           },
                                           {
                                             "nid": 509104927,
                                             "strtype": "_style/Padding",
                                             "intarray": [
-                                              4,
+                                              6,
                                               0,
                                               0,
                                               0
@@ -19985,7 +19992,7 @@
                                 "Wrap": false,
                                 "Reversed": false,
                                 "MainAlignment": 0,
-                                "CrossAlignment": 0,
+                                "CrossAlignment": 1,
                                 "TrackAlignment": 0,
                                 "LayoutType": 1,
                                 "nid": 1845173865,
@@ -20294,7 +20301,7 @@
                             "Reversed": false,
                             "MainAlignment": 0,
                             "CrossAlignment": 1,
-                            "TrackAlignment": 0,
+                            "TrackAlignment": 1,
                             "LayoutType": 1,
                             "nid": -562320530,
                             "strtype": "OBJECT/Layout_type",
@@ -20318,11 +20325,11 @@
                           },
                           {
                             "nid": 672189493,
-                            "flags": 50,
+                            "flags": 98,
                             "strtype": "OBJECT/Size",
                             "intarray": [
                               100,
-                              50
+                              1
                             ],
                             "InheritedType": 7
                           },
@@ -20621,11 +20628,11 @@
                       },
                       {
                         "nid": 73312612,
-                        "flags": 54,
+                        "flags": 38,
                         "strtype": "OBJECT/Size",
                         "intarray": [
                           1,
-                          1
+                          100
                         ],
                         "InheritedType": 7
                       },
@@ -20637,6 +20644,7 @@
                       },
                       {
                         "nid": 359370900,
+                        "flags": 1048576,
                         "strtype": "OBJECT/Flags",
                         "InheritedType": 1
                       },
@@ -20928,11 +20936,11 @@
                   },
                   {
                     "nid": -1107688935,
-                    "flags": 50,
+                    "flags": 34,
                     "strtype": "OBJECT/Size",
                     "intarray": [
                       100,
-                      1
+                      52
                     ],
                     "InheritedType": 7
                   },
@@ -21241,11 +21249,11 @@
                       },
                       {
                         "nid": -704924706,
-                        "flags": 51,
+                        "flags": 17,
                         "strtype": "OBJECT/Size",
                         "intarray": [
-                          1,
-                          1
+                          60,
+                          60
                         ],
                         "InheritedType": 7
                       },
@@ -21257,6 +21265,7 @@
                       },
                       {
                         "nid": 1237754831,
+                        "flags": 1048576,
                         "strtype": "OBJECT/Flags",
                         "InheritedType": 1
                       },
@@ -21454,7 +21463,7 @@
                       {
                         "nid": -257693173,
                         "strtype": "IMAGE/Asset",
-                        "strval": "assets\\arrow.png",
+                        "strval": "assets/arrow.png",
                         "InheritedType": 5
                       },
                       {
@@ -21486,7 +21495,8 @@
                         "InheritedType": 11
                       }
                     ],
-                    "saved_objtypeKey": "IMAGE"
+                    "saved_objtypeKey": "IMAGE",
+                    "tree_closed": true
                   },
                   {
                     "guid": "GUID8932507-875391S9862124",
@@ -21558,6 +21568,7 @@
                               },
                               {
                                 "nid": -480520098,
+                                "flags": 1048576,
                                 "strtype": "OBJECT/Flags",
                                 "InheritedType": 1
                               },
@@ -21775,7 +21786,7 @@
                                       {
                                         "nid": -1121194458,
                                         "strtype": "_style/Text_Font",
-                                        "strval": "FreeSans20",
+                                        "strval": "FreeSans24",
                                         "InheritedType": 3
                                       },
                                       {
@@ -21784,7 +21795,7 @@
                                         "intarray": [
                                           0,
                                           0,
-                                          2,
+                                          0,
                                           0
                                         ],
                                         "InheritedType": 7
@@ -22096,7 +22107,7 @@
                                       {
                                         "nid": -466217577,
                                         "strtype": "_style/Text_Font",
-                                        "strval": "FreeSans16",
+                                        "strval": "FreeSans20",
                                         "InheritedType": 3
                                       },
                                       {
@@ -22157,7 +22168,7 @@
                             "Reversed": false,
                             "MainAlignment": 0,
                             "CrossAlignment": 2,
-                            "TrackAlignment": 0,
+                            "TrackAlignment": 1,
                             "LayoutType": 1,
                             "nid": 1297310125,
                             "strtype": "OBJECT/Layout_type",
@@ -22181,11 +22192,11 @@
                           },
                           {
                             "nid": 646589478,
-                            "flags": 19,
+                            "flags": 35,
                             "strtype": "OBJECT/Size",
                             "intarray": [
-                              1,
-                              25
+                              90,
+                              50
                             ],
                             "InheritedType": 7
                           },
@@ -22540,6 +22551,7 @@
                               },
                               {
                                 "nid": -1566301059,
+                                "flags": 1048576,
                                 "strtype": "OBJECT/Flags",
                                 "InheritedType": 1
                               },
@@ -22757,7 +22769,7 @@
                                       {
                                         "nid": 2127888204,
                                         "strtype": "_style/Text_Font",
-                                        "strval": "FreeSans20",
+                                        "strval": "FreeSans24",
                                         "InheritedType": 3
                                       },
                                       {
@@ -23078,7 +23090,7 @@
                                       {
                                         "nid": 1887239462,
                                         "strtype": "_style/Text_Font",
-                                        "strval": "FreeSans16",
+                                        "strval": "FreeSans20",
                                         "InheritedType": 3
                                       },
                                       {
@@ -23140,7 +23152,7 @@
                             "Reversed": false,
                             "MainAlignment": 0,
                             "CrossAlignment": 2,
-                            "TrackAlignment": 0,
+                            "TrackAlignment": 1,
                             "LayoutType": 1,
                             "nid": 1436914706,
                             "strtype": "OBJECT/Layout_type",
@@ -23164,11 +23176,11 @@
                           },
                           {
                             "nid": 1607859881,
-                            "flags": 19,
+                            "flags": 35,
                             "strtype": "OBJECT/Size",
                             "intarray": [
                               1,
-                              25
+                              50
                             ],
                             "InheritedType": 7
                           },
@@ -23395,7 +23407,7 @@
                                       0,
                                       0,
                                       2,
-                                      0
+                                      5
                                     ],
                                     "InheritedType": 7
                                   },
@@ -23446,9 +23458,9 @@
                         "Flow": 1,
                         "Wrap": false,
                         "Reversed": false,
-                        "MainAlignment": 0,
+                        "MainAlignment": 5,
                         "CrossAlignment": 2,
-                        "TrackAlignment": 0,
+                        "TrackAlignment": 2,
                         "LayoutType": 1,
                         "nid": -135768030,
                         "strtype": "OBJECT/Layout_type",
@@ -23472,11 +23484,11 @@
                       },
                       {
                         "nid": 1206805048,
-                        "flags": 19,
+                        "flags": 35,
                         "strtype": "OBJECT/Size",
                         "intarray": [
                           1,
-                          50
+                          100
                         ],
                         "InheritedType": 7
                       },
@@ -23734,8 +23746,7 @@
                         "InheritedType": 11
                       }
                     ],
-                    "saved_objtypeKey": "PANEL",
-                    "tree_closed": true
+                    "saved_objtypeKey": "PANEL"
                   },
                   {
                     "guid": "GUID66794042-943478S3762124",
@@ -23791,11 +23802,11 @@
                               },
                               {
                                 "nid": 1162034161,
-                                "flags": 51,
+                                "flags": 17,
                                 "strtype": "OBJECT/Size",
                                 "intarray": [
-                                  1,
-                                  1
+                                  16,
+                                  16
                                 ],
                                 "InheritedType": 7
                               },
@@ -23807,6 +23818,7 @@
                               },
                               {
                                 "nid": 1139476844,
+                                "flags": 1048576,
                                 "strtype": "OBJECT/Flags",
                                 "InheritedType": 1
                               },
@@ -24004,7 +24016,7 @@
                               {
                                 "nid": 1063530998,
                                 "strtype": "IMAGE/Asset",
-                                "strval": "assets\\sunrise.png",
+                                "strval": "assets/sunrise.png",
                                 "InheritedType": 5
                               },
                               {
@@ -24318,7 +24330,7 @@
                                       {
                                         "nid": -2017968752,
                                         "strtype": "_style/Text_Font",
-                                        "strval": "FreeSans20",
+                                        "strval": "FreeSans24",
                                         "InheritedType": 3
                                       },
                                       {
@@ -24379,7 +24391,7 @@
                             "Reversed": false,
                             "MainAlignment": 0,
                             "CrossAlignment": 1,
-                            "TrackAlignment": 0,
+                            "TrackAlignment": 1,
                             "LayoutType": 1,
                             "nid": -618063500,
                             "strtype": "OBJECT/Layout_type",
@@ -24403,7 +24415,7 @@
                           },
                           {
                             "nid": 1939473513,
-                            "flags": 51,
+                            "flags": 35,
                             "strtype": "OBJECT/Size",
                             "intarray": [
                               100,
@@ -24712,11 +24724,11 @@
                               },
                               {
                                 "nid": -1609383875,
-                                "flags": 51,
+                                "flags": 17,
                                 "strtype": "OBJECT/Size",
                                 "intarray": [
-                                  1,
-                                  1
+                                  16,
+                                  16
                                 ],
                                 "InheritedType": 7
                               },
@@ -24925,7 +24937,7 @@
                               {
                                 "nid": 2138571314,
                                 "strtype": "IMAGE/Asset",
-                                "strval": "assets\\sunset.png",
+                                "strval": "assets/sunset.png",
                                 "InheritedType": 5
                               },
                               {
@@ -25239,7 +25251,7 @@
                                       {
                                         "nid": 591954989,
                                         "strtype": "_style/Text_Font",
-                                        "strval": "FreeSans20",
+                                        "strval": "FreeSans24",
                                         "InheritedType": 3
                                       },
                                       {
@@ -25300,7 +25312,7 @@
                             "Reversed": false,
                             "MainAlignment": 0,
                             "CrossAlignment": 1,
-                            "TrackAlignment": 0,
+                            "TrackAlignment": 1,
                             "LayoutType": 1,
                             "nid": -694181191,
                             "strtype": "OBJECT/Layout_type",
@@ -25324,7 +25336,7 @@
                           },
                           {
                             "nid": 1391936938,
-                            "flags": 51,
+                            "flags": 35,
                             "strtype": "OBJECT/Size",
                             "intarray": [
                               100,
@@ -25340,6 +25352,7 @@
                           },
                           {
                             "nid": 1502276915,
+                            "flags": 1048576,
                             "strtype": "OBJECT/Flags",
                             "InheritedType": 1
                           },
@@ -25549,7 +25562,7 @@
                                       0,
                                       0,
                                       0,
-                                      0
+                                      5
                                     ],
                                     "InheritedType": 7
                                   },
@@ -25600,9 +25613,9 @@
                         "Flow": 1,
                         "Wrap": false,
                         "Reversed": false,
-                        "MainAlignment": 4,
-                        "CrossAlignment": 0,
-                        "TrackAlignment": 0,
+                        "MainAlignment": 5,
+                        "CrossAlignment": 2,
+                        "TrackAlignment": 2,
                         "LayoutType": 1,
                         "nid": 2088839804,
                         "strtype": "OBJECT/Layout_type",
@@ -25626,11 +25639,11 @@
                       },
                       {
                         "nid": -1848274408,
-                        "flags": 19,
+                        "flags": 35,
                         "strtype": "OBJECT/Size",
                         "intarray": [
                           1,
-                          50
+                          100
                         ],
                         "InheritedType": 7
                       },
@@ -25910,7 +25923,7 @@
                     "Reversed": false,
                     "MainAlignment": 5,
                     "CrossAlignment": 1,
-                    "TrackAlignment": 0,
+                    "TrackAlignment": 1,
                     "LayoutType": 1,
                     "nid": -1830557887,
                     "strtype": "OBJECT/Layout_type",
@@ -25934,11 +25947,11 @@
                   },
                   {
                     "nid": -807972513,
-                    "flags": 50,
+                    "flags": 98,
                     "strtype": "OBJECT/Size",
                     "intarray": [
                       100,
-                      55
+                      1
                     ],
                     "InheritedType": 7
                   },
@@ -25950,6 +25963,7 @@
                   },
                   {
                     "nid": 677921734,
+                    "flags": 1048576,
                     "strtype": "OBJECT/Flags",
                     "InheritedType": 1
                   },
@@ -26163,7 +26177,7 @@
                             "intarray": [
                               0,
                               0,
-                              10,
+                              0,
                               0
                             ],
                             "InheritedType": 7
@@ -26244,8 +26258,8 @@
                 "flags": 17,
                 "strtype": "OBJECT/Size",
                 "intarray": [
-                  226,
-                  177
+                  286,
+                  222
                 ],
                 "InheritedType": 7
               },
@@ -26579,11 +26593,11 @@
                   },
                   {
                     "nid": 1340445321,
-                    "flags": 50,
+                    "flags": 34,
                     "strtype": "OBJECT/Size",
                     "intarray": [
                       100,
-                      1
+                      14
                     ],
                     "InheritedType": 7
                   },
@@ -26595,6 +26609,7 @@
                   },
                   {
                     "nid": 192956194,
+                    "flags": 1048576,
                     "strtype": "OBJECT/Flags",
                     "InheritedType": 1
                   },
@@ -26818,7 +26833,7 @@
                           {
                             "nid": 1434950984,
                             "strtype": "_style/Text_Font",
-                            "strval": "FreeSans18",
+                            "strval": "FreeSans20",
                             "InheritedType": 3
                           },
                           {
@@ -26850,8 +26865,17 @@
                             "intarray": [
                               0,
                               0,
-                              2,
-                              2
+                              0,
+                              0
+                            ],
+                            "InheritedType": 7
+                          },
+                          {
+                            "nid": 1665754746,
+                            "strtype": "_style/Padding_RowCol",
+                            "intarray": [
+                              0,
+                              0
                             ],
                             "InheritedType": 7
                           }
@@ -26940,6 +26964,7 @@
                       },
                       {
                         "nid": -592894853,
+                        "flags": 1048576,
                         "strtype": "OBJECT/Flags",
                         "InheritedType": 1
                       },
@@ -27168,7 +27193,7 @@
                               {
                                 "nid": -1763446160,
                                 "strtype": "_style/Text_Font",
-                                "strval": "FreeSansBold48",
+                                "strval": "FreeSansBold62",
                                 "InheritedType": 3
                               },
                               {
@@ -27259,7 +27284,7 @@
                         "flags": 49,
                         "strtype": "OBJECT/Size",
                         "intarray": [
-                          30,
+                          32,
                           1
                         ],
                         "InheritedType": 7
@@ -27507,7 +27532,7 @@
                               {
                                 "nid": 1841074601,
                                 "strtype": "_style/Text_Font",
-                                "strval": "FreeSans18",
+                                "strval": "FreeSans24",
                                 "InheritedType": 3
                               },
                               {
@@ -27516,7 +27541,7 @@
                                 "intarray": [
                                   0,
                                   0,
-                                  0,
+                                  8,
                                   0
                                 ],
                                 "InheritedType": 7
@@ -27592,11 +27617,11 @@
                   },
                   {
                     "nid": -929697440,
-                    "flags": 50,
+                    "flags": 34,
                     "strtype": "OBJECT/Size",
                     "intarray": [
                       100,
-                      1
+                      30
                     ],
                     "InheritedType": 7
                   },
@@ -27608,6 +27633,7 @@
                   },
                   {
                     "nid": -2054620921,
+                    "flags": 1048576,
                     "strtype": "OBJECT/Flags",
                     "InheritedType": 1
                   },
@@ -27816,7 +27842,7 @@
                             "intarray": [
                               0,
                               0,
-                              8,
+                              0,
                               0
                             ],
                             "InheritedType": 7
@@ -27900,11 +27926,11 @@
                       },
                       {
                         "nid": 1974537787,
-                        "flags": 51,
+                        "flags": 17,
                         "strtype": "OBJECT/Size",
                         "intarray": [
-                          1,
-                          1
+                          24,
+                          24
                         ],
                         "InheritedType": 7
                       },
@@ -28114,7 +28140,7 @@
                       {
                         "nid": 284173641,
                         "strtype": "IMAGE/Asset",
-                        "strval": "assets\\humidity.png",
+                        "strval": "assets/humidity.png",
                         "InheritedType": 5
                       },
                       {
@@ -28428,8 +28454,19 @@
                               {
                                 "nid": -1467843632,
                                 "strtype": "_style/Text_Font",
-                                "strval": "FreeSans24",
+                                "strval": "FreeSans36",
                                 "InheritedType": 3
+                              },
+                              {
+                                "nid": -1147491512,
+                                "strtype": "_style/Bg_Color",
+                                "intarray": [
+                                  255,
+                                  255,
+                                  255,
+                                  255
+                                ],
+                                "InheritedType": 7
                               },
                               {
                                 "nid": 1972451232,
@@ -28749,7 +28786,7 @@
                               {
                                 "nid": -1758743147,
                                 "strtype": "_style/Text_Font",
-                                "strval": "FreeSans18",
+                                "strval": "FreeSans20",
                                 "InheritedType": 3
                               },
                               {
@@ -28758,7 +28795,7 @@
                                 "intarray": [
                                   4,
                                   0,
-                                  1,
+                                  12,
                                   0
                                 ],
                                 "InheritedType": 7
@@ -28809,8 +28846,8 @@
                     "Wrap": false,
                     "Reversed": false,
                     "MainAlignment": 0,
-                    "CrossAlignment": 0,
-                    "TrackAlignment": 0,
+                    "CrossAlignment": 1,
+                    "TrackAlignment": 1,
                     "LayoutType": 1,
                     "nid": -1854370712,
                     "strtype": "OBJECT/Layout_type",
@@ -28834,11 +28871,11 @@
                   },
                   {
                     "nid": -290049047,
-                    "flags": 50,
+                    "flags": 34,
                     "strtype": "OBJECT/Size",
                     "intarray": [
                       100,
-                      50
+                      18
                     ],
                     "InheritedType": 7
                   },
@@ -28850,6 +28887,7 @@
                   },
                   {
                     "nid": -1801736142,
+                    "flags": 1048576,
                     "strtype": "OBJECT/Flags",
                     "InheritedType": 1
                   },
@@ -29056,10 +29094,10 @@
                             "nid": -639924040,
                             "strtype": "_style/Padding",
                             "intarray": [
-                              10,
+                              15,
                               0,
                               0,
-                              0
+                              1
                             ],
                             "InheritedType": 7
                           },
@@ -29146,11 +29184,11 @@
                           },
                           {
                             "nid": 215520039,
-                            "flags": 17,
+                            "flags": 18,
                             "strtype": "OBJECT/Size",
                             "intarray": [
-                              30,
-                              12
+                              90,
+                              16
                             ],
                             "InheritedType": 7
                           },
@@ -29162,6 +29200,7 @@
                           },
                           {
                             "nid": -429595181,
+                            "flags": 1048576,
                             "strtype": "OBJECT/Flags",
                             "InheritedType": 1
                           },
@@ -29466,11 +29505,11 @@
                           },
                           {
                             "nid": 453478220,
-                            "flags": 17,
+                            "flags": 18,
                             "strtype": "OBJECT/Size",
                             "intarray": [
-                              30,
-                              12
+                              90,
+                              16
                             ],
                             "InheritedType": 7
                           },
@@ -29482,6 +29521,7 @@
                           },
                           {
                             "nid": -453049314,
+                            "flags": 1048576,
                             "strtype": "OBJECT/Flags",
                             "InheritedType": 1
                           },
@@ -29786,11 +29826,11 @@
                           },
                           {
                             "nid": -1498510294,
-                            "flags": 17,
+                            "flags": 18,
                             "strtype": "OBJECT/Size",
                             "intarray": [
-                              30,
-                              12
+                              90,
+                              16
                             ],
                             "InheritedType": 7
                           },
@@ -30106,11 +30146,11 @@
                           },
                           {
                             "nid": 1368641774,
-                            "flags": 17,
+                            "flags": 18,
                             "strtype": "OBJECT/Size",
                             "intarray": [
-                              30,
-                              12
+                              90,
+                              16
                             ],
                             "InheritedType": 7
                           },
@@ -30426,7 +30466,7 @@
                           },
                           {
                             "nid": -814874866,
-                            "flags": 51,
+                            "flags": 99,
                             "strtype": "OBJECT/Size",
                             "intarray": [
                               1,
@@ -30742,11 +30782,11 @@
                       },
                       {
                         "nid": 2044630873,
-                        "flags": 49,
+                        "flags": 34,
                         "strtype": "OBJECT/Size",
                         "intarray": [
-                          33,
-                          1
+                          25,
+                          100
                         ],
                         "InheritedType": 7
                       },
@@ -30758,6 +30798,7 @@
                       },
                       {
                         "nid": -675736377,
+                        "flags": 1048576,
                         "strtype": "OBJECT/Flags",
                         "InheritedType": 1
                       },
@@ -31069,11 +31110,11 @@
                           },
                           {
                             "nid": -1900934718,
-                            "flags": 17,
+                            "flags": 18,
                             "strtype": "OBJECT/Size",
                             "intarray": [
-                              30,
-                              48
+                              90,
+                              64
                             ],
                             "InheritedType": 7
                           },
@@ -31085,6 +31126,7 @@
                           },
                           {
                             "nid": 954825591,
+                            "flags": 1048576,
                             "strtype": "OBJECT/Flags",
                             "InheritedType": 1
                           },
@@ -31389,7 +31431,7 @@
                           },
                           {
                             "nid": 1519184672,
-                            "flags": 51,
+                            "flags": 99,
                             "strtype": "OBJECT/Size",
                             "intarray": [
                               1,
@@ -31405,6 +31447,7 @@
                           },
                           {
                             "nid": 1145469303,
+                            "flags": 1048576,
                             "strtype": "OBJECT/Flags",
                             "InheritedType": 1
                           },
@@ -31699,11 +31742,11 @@
                       },
                       {
                         "nid": -1135278482,
-                        "flags": 49,
+                        "flags": 34,
                         "strtype": "OBJECT/Size",
                         "intarray": [
-                          33,
-                          50
+                          25,
+                          100
                         ],
                         "InheritedType": 7
                       },
@@ -31715,6 +31758,7 @@
                       },
                       {
                         "nid": 1346270554,
+                        "flags": 1048576,
                         "strtype": "OBJECT/Flags",
                         "InheritedType": 1
                       },
@@ -32012,11 +32056,11 @@
                           },
                           {
                             "nid": -1294067341,
-                            "flags": 17,
+                            "flags": 18,
                             "strtype": "OBJECT/Size",
                             "intarray": [
-                              30,
-                              48
+                              90,
+                              64
                             ],
                             "InheritedType": 7
                           },
@@ -32353,6 +32397,7 @@
                               },
                               {
                                 "nid": -885737499,
+                                "flags": 1048576,
                                 "strtype": "OBJECT/Flags",
                                 "InheritedType": 1
                               },
@@ -32958,7 +33003,7 @@
                           },
                           {
                             "nid": -554917867,
-                            "flags": 51,
+                            "flags": 99,
                             "strtype": "OBJECT/Size",
                             "intarray": [
                               1,
@@ -32974,6 +33019,7 @@
                           },
                           {
                             "nid": -504896724,
+                            "flags": 1048576,
                             "strtype": "OBJECT/Flags",
                             "InheritedType": 1
                           },
@@ -33260,11 +33306,11 @@
                       },
                       {
                         "nid": 385752416,
-                        "flags": 49,
+                        "flags": 34,
                         "strtype": "OBJECT/Size",
                         "intarray": [
-                          33,
-                          50
+                          25,
+                          100
                         ],
                         "InheritedType": 7
                       },
@@ -33573,11 +33619,11 @@
                           },
                           {
                             "nid": -1685287906,
-                            "flags": 17,
+                            "flags": 18,
                             "strtype": "OBJECT/Size",
                             "intarray": [
-                              30,
-                              48
+                              90,
+                              64
                             ],
                             "InheritedType": 7
                           },
@@ -34520,7 +34566,7 @@
                           },
                           {
                             "nid": 694460210,
-                            "flags": 51,
+                            "flags": 99,
                             "strtype": "OBJECT/Size",
                             "intarray": [
                               1,
@@ -34823,11 +34869,11 @@
                       },
                       {
                         "nid": -896166693,
-                        "flags": 49,
+                        "flags": 34,
                         "strtype": "OBJECT/Size",
                         "intarray": [
-                          33,
-                          50
+                          25,
+                          100
                         ],
                         "InheritedType": 7
                       },
@@ -35105,8 +35151,8 @@
                     "Wrap": false,
                     "Reversed": false,
                     "MainAlignment": 1,
-                    "CrossAlignment": 2,
-                    "TrackAlignment": 0,
+                    "CrossAlignment": 1,
+                    "TrackAlignment": 1,
                     "LayoutType": 1,
                     "nid": 1737131253,
                     "strtype": "OBJECT/Layout_type",
@@ -35130,7 +35176,7 @@
                   },
                   {
                     "nid": -986711012,
-                    "flags": 50,
+                    "flags": 98,
                     "strtype": "OBJECT/Size",
                     "intarray": [
                       100,
@@ -35146,6 +35192,7 @@
                   },
                   {
                     "nid": 1696947541,
+                    "flags": 1048576,
                     "strtype": "OBJECT/Flags",
                     "InheritedType": 1
                   },
@@ -35404,10 +35451,10 @@
               },
               {
                 "Flow": 1,
-                "Wrap": false,
+                "Wrap": true,
                 "Reversed": false,
-                "MainAlignment": 1,
-                "CrossAlignment": 0,
+                "MainAlignment": 0,
+                "CrossAlignment": 1,
                 "TrackAlignment": 0,
                 "LayoutType": 1,
                 "nid": 289115106,
@@ -35435,8 +35482,8 @@
                 "flags": 17,
                 "strtype": "OBJECT/Size",
                 "intarray": [
-                  136,
-                  177
+                  180,
+                  222
                 ],
                 "InheritedType": 7
               },
@@ -35797,11 +35844,11 @@
                   },
                   {
                     "nid": 1791339628,
-                    "flags": 50,
+                    "flags": 34,
                     "strtype": "OBJECT/Size",
                     "intarray": [
                       100,
-                      1
+                      14
                     ],
                     "InheritedType": 7
                   },
@@ -35813,6 +35860,7 @@
                   },
                   {
                     "nid": 1263021468,
+                    "flags": 1048576,
                     "strtype": "OBJECT/Flags",
                     "InheritedType": 1
                   },
@@ -36036,7 +36084,7 @@
                           {
                             "nid": -504624671,
                             "strtype": "_style/Text_Font",
-                            "strval": "FreeSans18",
+                            "strval": "FreeSans20",
                             "InheritedType": 3
                           },
                           {
@@ -36068,8 +36116,17 @@
                             "intarray": [
                               0,
                               0,
-                              2,
-                              2
+                              0,
+                              0
+                            ],
+                            "InheritedType": 7
+                          },
+                          {
+                            "nid": -1589719197,
+                            "strtype": "_style/Padding_RowCol",
+                            "intarray": [
+                              0,
+                              0
                             ],
                             "InheritedType": 7
                           }
@@ -36158,6 +36215,7 @@
                       },
                       {
                         "nid": -1867832349,
+                        "flags": 1048576,
                         "strtype": "OBJECT/Flags",
                         "InheritedType": 1
                       },
@@ -36361,7 +36419,7 @@
                       {
                         "nid": 1423818714,
                         "strtype": "LABEL/Text",
-                        "strval": "8.2",
+                        "strval": "29.8",
                         "InheritedType": 10
                       },
                       {
@@ -36386,7 +36444,7 @@
                               {
                                 "nid": -1723008747,
                                 "strtype": "_style/Text_Font",
-                                "strval": "FreeSansBold48",
+                                "strval": "FreeSansBold62",
                                 "InheritedType": 3
                               },
                               {
@@ -36724,7 +36782,7 @@
                               {
                                 "nid": 1231813609,
                                 "strtype": "_style/Text_Font",
-                                "strval": "FreeSans18",
+                                "strval": "FreeSans24",
                                 "InheritedType": 3
                               },
                               {
@@ -36733,7 +36791,7 @@
                                 "intarray": [
                                   0,
                                   0,
-                                  0,
+                                  8,
                                   0
                                 ],
                                 "InheritedType": 7
@@ -36809,11 +36867,11 @@
                   },
                   {
                     "nid": 416464979,
-                    "flags": 50,
+                    "flags": 34,
                     "strtype": "OBJECT/Size",
                     "intarray": [
                       100,
-                      1
+                      30
                     ],
                     "InheritedType": 7
                   },
@@ -36825,6 +36883,7 @@
                   },
                   {
                     "nid": -1175287064,
+                    "flags": 1048576,
                     "strtype": "OBJECT/Flags",
                     "InheritedType": 1
                   },
@@ -37033,7 +37092,7 @@
                             "intarray": [
                               0,
                               0,
-                              8,
+                              0,
                               0
                             ],
                             "InheritedType": 7
@@ -37117,11 +37176,11 @@
                       },
                       {
                         "nid": -706727398,
-                        "flags": 51,
+                        "flags": 17,
                         "strtype": "OBJECT/Size",
                         "intarray": [
-                          1,
-                          1
+                          24,
+                          24
                         ],
                         "InheritedType": 7
                       },
@@ -37133,6 +37192,7 @@
                       },
                       {
                         "nid": 2062340584,
+                        "flags": 1048576,
                         "strtype": "OBJECT/Flags",
                         "InheritedType": 1
                       },
@@ -37330,7 +37390,7 @@
                       {
                         "nid": 318270426,
                         "strtype": "IMAGE/Asset",
-                        "strval": "assets\\humidity.png",
+                        "strval": "assets/humidity.png",
                         "InheritedType": 5
                       },
                       {
@@ -37426,6 +37486,7 @@
                       },
                       {
                         "nid": -1605982496,
+                        "flags": 1048576,
                         "strtype": "OBJECT/Flags",
                         "InheritedType": 1
                       },
@@ -37643,7 +37704,7 @@
                               {
                                 "nid": 1302777071,
                                 "strtype": "_style/Text_Font",
-                                "strval": "FreeSans24",
+                                "strval": "FreeSans36",
                                 "InheritedType": 3
                               },
                               {
@@ -37964,7 +38025,7 @@
                               {
                                 "nid": 1900499751,
                                 "strtype": "_style/Text_Font",
-                                "strval": "FreeSans18",
+                                "strval": "FreeSans20",
                                 "InheritedType": 3
                               },
                               {
@@ -37973,7 +38034,7 @@
                                 "intarray": [
                                   4,
                                   0,
-                                  1,
+                                  12,
                                   0
                                 ],
                                 "InheritedType": 7
@@ -38024,8 +38085,8 @@
                     "Wrap": false,
                     "Reversed": false,
                     "MainAlignment": 0,
-                    "CrossAlignment": 0,
-                    "TrackAlignment": 0,
+                    "CrossAlignment": 1,
+                    "TrackAlignment": 1,
                     "LayoutType": 1,
                     "nid": -2129543705,
                     "strtype": "OBJECT/Layout_type",
@@ -38049,11 +38110,11 @@
                   },
                   {
                     "nid": -784026668,
-                    "flags": 50,
+                    "flags": 34,
                     "strtype": "OBJECT/Size",
                     "intarray": [
                       100,
-                      50
+                      21
                     ],
                     "InheritedType": 7
                   },
@@ -38065,6 +38126,7 @@
                   },
                   {
                     "nid": -476813307,
+                    "flags": 1048576,
                     "strtype": "OBJECT/Flags",
                     "InheritedType": 1
                   },
@@ -38271,7 +38333,7 @@
                             "nid": -1131040075,
                             "strtype": "_style/Padding",
                             "intarray": [
-                              6,
+                              15,
                               0,
                               0,
                               2
@@ -38357,11 +38419,11 @@
                       },
                       {
                         "nid": 377829891,
-                        "flags": 51,
+                        "flags": 17,
                         "strtype": "OBJECT/Size",
                         "intarray": [
-                          1,
-                          1
+                          24,
+                          24
                         ],
                         "InheritedType": 7
                       },
@@ -38571,7 +38633,7 @@
                       {
                         "nid": 1741972854,
                         "strtype": "IMAGE/Asset",
-                        "strval": "assets\\pressure.png",
+                        "strval": "assets/pressure.png",
                         "InheritedType": 5
                       },
                       {
@@ -38886,7 +38948,7 @@
                               {
                                 "nid": 1613546882,
                                 "strtype": "_style/Text_Font",
-                                "strval": "FreeSans24",
+                                "strval": "FreeSans36",
                                 "InheritedType": 3
                               },
                               {
@@ -39207,7 +39269,7 @@
                               {
                                 "nid": 1516670338,
                                 "strtype": "_style/Text_Font",
-                                "strval": "FreeSans18",
+                                "strval": "FreeSans20",
                                 "InheritedType": 3
                               },
                               {
@@ -39216,7 +39278,7 @@
                                 "intarray": [
                                   4,
                                   0,
-                                  1,
+                                  12,
                                   0
                                 ],
                                 "InheritedType": 7
@@ -39268,8 +39330,8 @@
                     "Wrap": false,
                     "Reversed": false,
                     "MainAlignment": 0,
-                    "CrossAlignment": 0,
-                    "TrackAlignment": 0,
+                    "CrossAlignment": 1,
+                    "TrackAlignment": 1,
                     "LayoutType": 1,
                     "nid": -992538256,
                     "strtype": "OBJECT/Layout_type",
@@ -39293,11 +39355,11 @@
                   },
                   {
                     "nid": 486138266,
-                    "flags": 50,
+                    "flags": 34,
                     "strtype": "OBJECT/Size",
                     "intarray": [
                       100,
-                      1
+                      21
                     ],
                     "InheritedType": 7
                   },
@@ -39309,6 +39371,7 @@
                   },
                   {
                     "nid": -1907630488,
+                    "flags": 1048576,
                     "strtype": "OBJECT/Flags",
                     "InheritedType": 1
                   },
@@ -39515,10 +39578,10 @@
                             "nid": 1585689684,
                             "strtype": "_style/Padding",
                             "intarray": [
-                              8,
+                              16,
                               0,
-                              8,
-                              8
+                              0,
+                              6
                             ],
                             "InheritedType": 7
                           },
@@ -39601,11 +39664,11 @@
                       },
                       {
                         "nid": -612207936,
-                        "flags": 51,
+                        "flags": 49,
                         "strtype": "OBJECT/Size",
                         "intarray": [
-                          1,
-                          1
+                          16,
+                          16
                         ],
                         "InheritedType": 7
                       },
@@ -39816,7 +39879,7 @@
                       {
                         "nid": 406148563,
                         "strtype": "IMAGE/Asset",
-                        "strval": "assets\\battery.png",
+                        "strval": "assets/battery.png",
                         "InheritedType": 5
                       },
                       {
@@ -40130,7 +40193,7 @@
                               {
                                 "nid": -2091477038,
                                 "strtype": "_style/Text_Font",
-                                "strval": "FreeSans14",
+                                "strval": "FreeSans20",
                                 "InheritedType": 3
                               },
                               {
@@ -40138,8 +40201,8 @@
                                 "strtype": "_style/Padding",
                                 "intarray": [
                                   2,
-                                  16,
-                                  1,
+                                  20,
+                                  0,
                                   0
                                 ],
                                 "InheritedType": 7
@@ -40208,11 +40271,11 @@
                       },
                       {
                         "nid": 1565882793,
-                        "flags": 51,
+                        "flags": 49,
                         "strtype": "OBJECT/Size",
                         "intarray": [
-                          1,
-                          1
+                          16,
+                          16
                         ],
                         "InheritedType": 7
                       },
@@ -40224,6 +40287,7 @@
                       },
                       {
                         "nid": -1649502828,
+                        "flags": 1048576,
                         "strtype": "OBJECT/Flags",
                         "InheritedType": 1
                       },
@@ -40421,7 +40485,7 @@
                       {
                         "nid": 11873289,
                         "strtype": "IMAGE/Asset",
-                        "strval": "assets\\uhr.png",
+                        "strval": "assets/clock.png",
                         "InheritedType": 5
                       },
                       {
@@ -40735,16 +40799,16 @@
                               {
                                 "nid": -1724041562,
                                 "strtype": "_style/Text_Font",
-                                "strval": "FreeSans14",
+                                "strval": "FreeSans20",
                                 "InheritedType": 3
                               },
                               {
                                 "nid": -366392418,
                                 "strtype": "_style/Padding",
                                 "intarray": [
-                                  2,
+                                  4,
                                   10,
-                                  1,
+                                  0,
                                   0
                                 ],
                                 "InheritedType": 7
@@ -40785,9 +40849,9 @@
                     "Flow": 0,
                     "Wrap": false,
                     "Reversed": false,
-                    "MainAlignment": 0,
+                    "MainAlignment": 1,
                     "CrossAlignment": 1,
-                    "TrackAlignment": 0,
+                    "TrackAlignment": 1,
                     "LayoutType": 1,
                     "nid": 831544138,
                     "strtype": "OBJECT/Layout_type",
@@ -40811,11 +40875,11 @@
                   },
                   {
                     "nid": -1130719711,
-                    "flags": 18,
+                    "flags": 98,
                     "strtype": "OBJECT/Size",
                     "intarray": [
                       100,
-                      26
+                      1
                     ],
                     "InheritedType": 7
                   },
@@ -41068,9 +41132,9 @@
                             "nid": -1235614774,
                             "strtype": "_style/Padding",
                             "intarray": [
-                              10,
+                              16,
                               0,
-                              3,
+                              1,
                               0
                             ],
                             "InheritedType": 7
@@ -41141,11 +41205,11 @@
               },
               {
                 "Flow": 1,
-                "Wrap": false,
+                "Wrap": true,
                 "Reversed": false,
                 "MainAlignment": 0,
                 "CrossAlignment": 1,
-                "TrackAlignment": 1,
+                "TrackAlignment": 0,
                 "LayoutType": 1,
                 "nid": -221404485,
                 "strtype": "OBJECT/Layout_type",
@@ -41172,8 +41236,8 @@
                 "flags": 17,
                 "strtype": "OBJECT/Size",
                 "intarray": [
-                  136,
-                  177
+                  180,
+                  222
                 ],
                 "InheritedType": 7
               },
@@ -45947,6 +46011,7 @@
                       },
                       {
                         "nid": 151152171,
+                        "flags": 1048576,
                         "strtype": "OBJECT/Flags",
                         "InheritedType": 1
                       },
@@ -46144,7 +46209,7 @@
                       {
                         "nid": -1166431799,
                         "strtype": "IMAGE/Asset",
-                        "strval": "assets\\uhr.png",
+                        "strval": "assets/clock.png",
                         "InheritedType": 5
                       },
                       {
@@ -46903,8 +46968,8 @@
                 "flags": 17,
                 "strtype": "OBJECT/Size",
                 "intarray": [
-                  136,
-                  177
+                  180,
+                  222
                 ],
                 "InheritedType": 7
               },
@@ -51676,6 +51741,7 @@
                       },
                       {
                         "nid": 1976254103,
+                        "flags": 1048576,
                         "strtype": "OBJECT/Flags",
                         "InheritedType": 1
                       },
@@ -51873,7 +51939,7 @@
                       {
                         "nid": -1821545736,
                         "strtype": "IMAGE/Asset",
-                        "strval": "assets\\uhr.png",
+                        "strval": "assets/clock.png",
                         "InheritedType": 5
                       },
                       {
@@ -52631,8 +52697,8 @@
                 "flags": 17,
                 "strtype": "OBJECT/Size",
                 "intarray": [
-                  136,
-                  177
+                  180,
+                  222
                 ],
                 "InheritedType": 7
               },
@@ -53448,8 +53514,8 @@
                 "flags": 17,
                 "strtype": "OBJECT/Size",
                 "intarray": [
-                  367,
-                  288
+                  469,
+                  369
                 ],
                 "InheritedType": 7
               },
@@ -54245,8 +54311,8 @@
                 "flags": 17,
                 "strtype": "OBJECT/Size",
                 "intarray": [
-                  418,
-                  288
+                  546,
+                  369
                 ],
                 "InheritedType": 7
               },
@@ -54512,6 +54578,8 @@
           }
         ],
         "isPage": true,
+        "editor_posx": 2560,
+        "editor_posy": -1280,
         "locked": false,
         "properties": [
           {
@@ -54721,10 +54789,10 @@
                     "nid": 122604957,
                     "strtype": "_style/Padding",
                     "intarray": [
-                      5,
-                      5,
-                      5,
-                      5
+                      3,
+                      3,
+                      3,
+                      3
                     ],
                     "InheritedType": 7
                   },
@@ -54732,8 +54800,8 @@
                     "nid": -1284830698,
                     "strtype": "_style/Padding_RowCol",
                     "intarray": [
-                      5,
-                      5
+                      3,
+                      3
                     ],
                     "InheritedType": 7
                   }
@@ -54776,11 +54844,12 @@
     "saved_objtypeKey": "STARTEVENTS"
   },
   "animations": [],
+  "selected_theme": "Default",
   "info": {
     "name": "SquareLine_Project.spj",
     "depth": 1,
-    "width": 800,
-    "height": 480,
+    "width": 1024,
+    "height": 600,
     "rotation": 0,
     "offset_x": 0,
     "offset_y": 0,
@@ -54789,22 +54858,34 @@
     "description": "",
     "board": "ESP32-S3-LCD-EV-BOARD",
     "board_version": "1.0.1",
-    "editor_version": "1.3.3",
+    "editor_version": "1.4.0",
     "image": "",
     "force_export_images": true,
     "flat_export": false,
+    "advanced_alpha": false,
     "pointfilter": false,
     "theme_simplified": false,
     "theme_dark": false,
     "theme_color1": 5,
     "theme_color2": 0,
-    "exportFolderPath": "D:\\Harald\\Documents\\Projekte\\Wetterstation-2.0\\WeatherStation-ESP32-Base-GUI\\Export\\ui",
+    "uiExportFolderPath": "",
     "projectExportFolderPath": "D:\\Harald\\Documents\\Projekte\\Wetterstation-2.0\\WeatherStation-ESP32-Base-GUI\\Export",
-    "backup_cnt": 1071,
+    "backup_cnt": 1137,
     "autosave_cnt": 0,
     "lvgl_version": "8.3.6",
     "callfuncsexport": "CPP_FILE",
+    "imageexport": "SOURCE",
     "lvgl_include_path": "",
+    "drive_stdio": null,
+    "drive_stdio_path": null,
+    "drive_posix": null,
+    "drive_posix_path": null,
+    "drive_win32": null,
+    "drive_win32_path": null,
+    "drive_fatfs": null,
+    "drive_fatfs_path": null,
+    "naming": null,
+    "naming_force_lowercase": false,
     "BitDepth": 16,
     "Name": "SquareLine_Project"
   }

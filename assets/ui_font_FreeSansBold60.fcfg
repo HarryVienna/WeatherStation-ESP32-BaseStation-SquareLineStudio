@@ -1,0 +1,16 @@
+{
+  "codename": "FreeSansBold60",
+  "ttf_path": "/assets/FreeSansBold.ttf",
+  "bin_path": "/assets\\ui_font_FreeSansBold60.bin",
+  "c_path": "/assets\\ui_font_FreeSansBold60.c",
+  "cfg_path": "/assets\\ui_font_FreeSansBold60.fcfg",
+  "size": 60,
+  "bpp": 8,
+  "letters": 3,
+  "ranges": [
+    "0x20-0xff"
+  ],
+  "symbols": "",
+  "customparams": "--no-compress --no-prefilter",
+  "uploaded": false
+}
