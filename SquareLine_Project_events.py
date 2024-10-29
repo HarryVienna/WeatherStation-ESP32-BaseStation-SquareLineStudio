@@ -46,3 +46,11 @@ def event_value_changed(event_struct):
 def event_screen_loaded(event_struct):
     return
 
+
+def event_setup_screen_loaded(event_struct):
+    return
+
+
+def event_timezone_value_changed(event_struct):
+    return
+
