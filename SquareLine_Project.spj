@@ -382,6 +382,23 @@
                                   255
                                 ],
                                 "InheritedType": 7
+                              },
+                              {
+                                "nid": 10710,
+                                "strtype": "_style/Border_Color",
+                                "intarray": [
+                                  0,
+                                  0,
+                                  0,
+                                  255
+                                ],
+                                "InheritedType": 7
+                              },
+                              {
+                                "nid": 10720,
+                                "strtype": "_style/Border width",
+                                "integer": 1,
+                                "InheritedType": 6
                               }
                             ],
                             "InheritedType": 1
@@ -5438,6 +5455,23 @@
                                   255
                                 ],
                                 "InheritedType": 7
+                              },
+                              {
+                                "nid": 10710,
+                                "strtype": "_style/Border_Color",
+                                "intarray": [
+                                  0,
+                                  0,
+                                  0,
+                                  255
+                                ],
+                                "InheritedType": 7
+                              },
+                              {
+                                "nid": 10720,
+                                "strtype": "_style/Border width",
+                                "integer": 1,
+                                "InheritedType": 6
                               }
                             ],
                             "InheritedType": 1
@@ -5746,6 +5780,23 @@
                                   255
                                 ],
                                 "InheritedType": 7
+                              },
+                              {
+                                "nid": 10710,
+                                "strtype": "_style/Border_Color",
+                                "intarray": [
+                                  0,
+                                  0,
+                                  0,
+                                  255
+                                ],
+                                "InheritedType": 7
+                              },
+                              {
+                                "nid": 10720,
+                                "strtype": "_style/Border width",
+                                "integer": 1,
+                                "InheritedType": 6
                               }
                             ],
                             "InheritedType": 1
@@ -10213,8 +10264,8 @@
           }
         ],
         "isPage": true,
-        "editor_posx": 1280,
-        "editor_posy": -1280,
+        "editor_posx": 1256,
+        "editor_posy": -1256,
         "dont_export": false,
         "locked": false,
         "properties": [
@@ -17861,8 +17912,7 @@
                 "InheritedType": 11
               }
             ],
-            "saved_objtypeKey": "PANEL",
-            "tree_closed": true
+            "saved_objtypeKey": "PANEL"
           },
           {
             "guid": "GUID86354156-897236S6442124",
@@ -25309,8 +25359,7 @@
                     "InheritedType": 11
                   }
                 ],
-                "saved_objtypeKey": "PANEL",
-                "tree_closed": true
+                "saved_objtypeKey": "PANEL"
               },
               {
                 "guid": "GUID3009574-392652S9272118",
@@ -28399,8 +28448,7 @@
                 "InheritedType": 11
               }
             ],
-            "saved_objtypeKey": "PANEL",
-            "tree_closed": true
+            "saved_objtypeKey": "PANEL"
           },
           {
             "guid": "GUID67355697-958245S1472125",
@@ -37619,7 +37667,7 @@
           }
         ],
         "isPage": true,
-        "editor_posx": 2432,
+        "editor_posx": 2368,
         "editor_posy": -1344,
         "dont_export": false,
         "locked": false,
@@ -37858,10 +37906,10 @@
     "theme_dark": false,
     "theme_color1": 5,
     "theme_color2": 0,
-    "uiExportFolderPath": "C:\\Users\\Harald\\Documents\\Projekte\\Wetterstation-3.0\\WeatherStation-ESP32-BaseStation-SquareLineStudio\\Export\\ui",
-    "projectExportFolderPath": "C:\\Users\\Harald\\Documents\\Projekte\\Wetterstation-3.0\\WeatherStation-ESP32-BaseStation-SquareLineStudio\\Export",
+    "uiExportFolderPath": "D:\\Harald\\Documents\\Projekte\\Wetterstation-ESP32-2.0\\WeatherStation-ESP32-BaseStation-SquareLineStudio\\Export\\ui",
+    "projectExportFolderPath": "D:\\Harald\\Documents\\Projekte\\Wetterstation-ESP32-2.0\\WeatherStation-ESP32-BaseStation-SquareLineStudio\\Export",
     "custom_variable_prefix": "uic",
-    "backup_cnt": 1245,
+    "backup_cnt": 1247,
     "autosave_cnt": 0,
     "lvgl_version": "8.3.6",
     "callfuncsexport": "CPP_FILE",
